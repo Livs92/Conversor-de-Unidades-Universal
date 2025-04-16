@@ -1,4 +1,5 @@
-🌐 Conversor Universal de Unidades – C++
+🌐 Conversor Universal de Unidades C++
+
 Este é um projeto desenvolvido em C++ no Code::Blocks: um conversor universal de unidades, com foco inicial em temperaturas. O programa possui uma interface simples via terminal, oferecendo um menu interativo para facilitar a navegação do usuário.
 
 🔧 Funcionalidades implementadas:
